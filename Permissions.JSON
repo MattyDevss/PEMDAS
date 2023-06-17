@@ -1,0 +1,11 @@
+{
+ 
+"CanClaimFreeGifts": true, 
+"CanClaimDailyRewards": true,
+"CanRebirth": true,
+"CanBuyAnswerWithCoins": true,
+"CanRedeemCodes": true,
+"CanUnpackBackpacks": true,
+"CanBuyBackpacks": true
+ 
+}

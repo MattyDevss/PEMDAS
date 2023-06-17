@@ -5,6 +5,6 @@
 "CanBuyAnswerWithCoins": true,
 "CanRedeemCodes": true,
 "CanUnpackBackpacks": true,
-"CanBuyBackpacks": true
+"CanBuyBackpacks": false
  
 }

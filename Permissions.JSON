@@ -4,7 +4,7 @@
 "CanRebirth": true,
 "CanBuyAnswerWithCoins": true,
 "CanRedeemCodes": true,
-"CanUnpackBackpacks": false,
-"CanBuyBackpacks": false
+"CanUnpackBackpacks": true,
+"CanBuyBackpacks": true
  
 }
